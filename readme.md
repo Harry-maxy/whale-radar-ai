@@ -8,7 +8,7 @@
   
   [![Twitter Community](https://img.shields.io/badge/Twitter-Community-blue?style=flat-square&logo=twitter)](https://x.com/i/communities/2005307442654019843/)
   
-  **CA: SOON**
+  **CA:** `B6G5rvnyfbPWpakhXFT6XyKFmTzGqodaLvSZAvVqpump`
   
 </div>
 
