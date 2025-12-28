@@ -12,7 +12,7 @@
   
 </div>
 
-A real-time whale and insider wallet detection system for Pump.fun tokens on Solana.
+Whale Radar is an onchain surveillance tool detecting whale and insider activity on Pump.fun in real time, with analytics and access powered by x402 protocol.
 
 ## Features
 
