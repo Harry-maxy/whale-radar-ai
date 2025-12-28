@@ -4,6 +4,14 @@
   <img src="assets/images/logo.png" alt="Whale Radar AI Logo" width="200"/>
 </div>
 
+<div align="center">
+  
+  [![Twitter Community](https://img.shields.io/badge/Twitter-Community-blue?style=flat-square&logo=twitter)](https://x.com/i/communities/2005307442654019843/)
+  
+  **CA: SOON**
+  
+</div>
+
 A real-time whale and insider wallet detection system for Pump.fun tokens on Solana.
 
 ## Features
