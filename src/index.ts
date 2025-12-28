@@ -1,7 +1,7 @@
 import { DatabaseStore } from './storage/db.js';
 import { SolanaRPC } from './rpc/solana.js';
 import { PumpFunDetector, PumpFunEvent } from './rpc/pumpfun.js';
-import { WhaleDetector } from './detector/whaleDetector.js';
+import { WhaleDetector } from './detector/whale-detector.js';
 import { AlertManager } from './alerts/telegram.js';
 import { APIServer } from './api/index.js';
 import { config } from './config.js';

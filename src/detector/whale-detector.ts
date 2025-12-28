@@ -1,7 +1,7 @@
 import { DatabaseStore, Wallet } from '../storage/db.js';
 import { PumpFunEvent } from '../rpc/pumpfun.js';
 import { PumpFunDetector } from '../rpc/pumpfun.js';
-import { InsiderDetector } from './insiderLogic.js';
+import { InsiderDetector } from './insider-logic.js';
 import { WhaleScorer } from './scoring.js';
 import { AlertManager } from '../alerts/telegram.js';
 import { config } from '../config.js';

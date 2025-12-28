@@ -1,6 +1,6 @@
 import express, { Express, Request, Response } from 'express';
 import { DatabaseStore } from '../storage/db.js';
-import { WhaleDetector } from '../detector/whaleDetector.js';
+import { WhaleDetector } from '../detector/whale-detector.js';
 import { config } from '../config.js';
 
 /**
