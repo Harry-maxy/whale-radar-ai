@@ -1,0 +1,33 @@
+{
+  "name": "whale-radar-ai",
+  "version": "1.0.0",
+  "description": "Whale Radar AI - Real-time whale and insider wallet detection system for Pump.fun tokens on Solana",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node --esm src/index.ts"
+  },
+  "keywords": ["solana", "pumpfun", "whale", "blockchain", "detector"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/web3.js": "^1.95.2",
+    "ws": "^8.18.0",
+    "axios": "^1.7.9",
+    "express": "^4.21.2",
+    "better-sqlite3": "^11.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/ws": "^8.5.13",
+    "@types/express": "^5.0.0",
+    "@types/better-sqlite3": "^7.6.12",
+    "typescript": "^5.7.2",
+    "ts-node": "^10.9.2"
+  }
+}
+
