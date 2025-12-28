@@ -1,5 +1,9 @@
 # Whale Radar AI
 
+<div align="center">
+  <img src="assets/images/logo.png" alt="Whale Radar AI Logo" width="200"/>
+</div>
+
 A real-time whale and insider wallet detection system for Pump.fun tokens on Solana.
 
 ## Features
