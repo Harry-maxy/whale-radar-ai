@@ -1,7 +1,5 @@
 # Whale Radar AI
 
-**25% на росте**
-
 A real-time whale and insider wallet detection system for Pump.fun tokens on Solana.
 
 ## Features
