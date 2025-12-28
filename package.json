@@ -1,7 +1,7 @@
 {
   "name": "whale-radar-ai",
   "version": "1.0.0",
-  "description": "Whale Radar AI - Real-time whale and insider wallet detection system for Pump.fun tokens on Solana",
+  "description": "Whale Radar AI - 25% на росте. Real-time whale and insider wallet detection system for Pump.fun tokens on Solana",
   "main": "dist/index.js",
   "type": "module",
   "scripts": {
